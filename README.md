@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumingyd&theme=ambient_gradient&locale=cn&card_width=240) ![GitHub Streak](https://streak-stats.demolab.com?user=sumingyd&theme=ambient-gradient&locale=zh_Hans&card_width=450)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumingyd&theme=ambient_gradient&locale=cn&card_width=240) ![GitHub Streak](https://streak-stats.demolab.com/demo/preview.php?user=sumingyd&theme=ambient-gradient&locale=zh_Hans&card_width=450)
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sumingyd)
 
