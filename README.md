@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumingyd) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumingyd)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumingyd) 
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=sumingyd)
 
