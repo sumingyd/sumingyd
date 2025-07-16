@@ -2,7 +2,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumingyd&theme=ambient_gradient&locale=cn&card_width=240) ![GitHub Streak](https://streak-stats.demolab.com?user=sumingyd&theme=ambient-gradient&hide_border=%E5%81%87&locale=zh_Hans&short_numbers=%E5%81%87&card_width=420)
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sumingyd)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sumingyd&theme=dracula)
 
 
 
