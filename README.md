@@ -1,12 +1,12 @@
 ## Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumingyd) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumingyd)  ![GitHub Streak](https://streak-stats.demolab.com/?user=sumingyd)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=sumingyd)
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sumingyd)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=sumingyd)
+
 
 
 <!--
