@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumingyd&theme=dark&locale=cn&card_width=800)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumingyd&theme=dark&locale=cn&card_width=300)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=sumingyd)
 
